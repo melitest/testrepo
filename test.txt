@@ -6,3 +6,7 @@ test
 
 segundo colaborador
 otro commit
+
+
+
+export http_proxy=10.10.32.64
